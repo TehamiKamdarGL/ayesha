@@ -1,0 +1,302 @@
+nav{
+    background-color: lightgrey;
+   padding-top: 10px;
+    height: 90px;
+    
+}
+.nav-link{
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+
+   
+
+}
+.nav-item{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-style: italic; 
+    float: right
+    ;
+}
+#footer{
+    background-color: lightslategray;
+    height: 160px;
+}
+#data{
+    margin-left: 800px;}
+    #c1{
+        height: 350px;
+        width: 18%;
+        margin-left: 200px;
+        border: solid;
+        position: absolute;
+    }
+    #c2{
+        margin-left: 600px;
+        height: 350px;
+        width: 18%;
+        margin-top: -0%;
+        border: solid;
+        position: absolute;
+    }
+    #c3{
+        margin-left: 1000px;
+        height: 350px;
+        width: 18%;
+        margin-top: -0%;
+        border: solid;
+        position: absolute;
+    
+    }
+    #dropdownMenuButton{
+        background-color: lightgrey;
+        text-decoration: none;
+        color: black;
+        border: none;
+        height: 45px;
+        font-size: 22px;
+        }
+        #test{
+            position: absolute;
+        }
+        #d1{
+            height: 500px;
+            width: 30%;
+            margin-left: 50px;
+            position: absolute;
+            padding: 50px;
+        
+        }
+        #d2{
+            height: 500px;
+            width: 30%;
+            margin-left: 500px;
+            margin-top: -0%;
+            position: absolute;
+            padding: 50px;
+
+        }
+        #d3{
+            height: 500px;
+            width: 30%;
+            margin-left: 1000px;
+            position: absolute;
+            padding: 50px;
+        }
+        #d4{
+            height: 500px;
+            width: 30%;
+            margin-left: 50px;
+            margin-top: 35%;
+            position: absolute;
+            padding: 50px;
+        }
+        #d5{
+            height: 200px;
+            width: 100%;
+            color: whitesmoke;
+          
+        }
+   
+      #a1{
+          height: 400px;
+          width: 30%;
+          margin-left: 50px;
+          position: absolute;
+          margin-top: -3%;
+    
+      }
+      #a2{
+        height: 300px;
+        width: 30%;
+        margin-left: 530px;
+        margin-top: -28%;
+        position: absolute;
+    
+    }
+      #a3{
+        height: 300px;
+        width: 30%;
+        margin-left: 1050px;
+        margin-top: -30%;
+        position: absolute;
+    }
+       #a4{
+        height: 400px;
+        width: 30%;
+        margin-left: 50px;
+        position: absolute;
+        margin-top: 3%;
+    }
+       #a5{
+        height: 400px;
+        width: 30%;
+        margin-left: 530px;
+        position: absolute;margin-top: -35%;
+    }
+       #a6{
+        height: 400px;
+        width: 30%;
+        margin-left: 1050PX;
+        position: absolute;
+        margin-top: -35%;
+    }
+    #test2{
+        position: absolute;
+    }
+#footer1{
+    height: 150px;
+    background-color: gray;
+    margin-top: 1000px;
+}     
+#a7{
+    height: 350px;
+    width: 30%;
+    margin-left: 50px;
+    position: absolute;
+    margin-top: -1%;
+
+}
+#a8{
+  height: 350px;
+  width: 30%;
+  margin-left: 530px;
+  margin-top: -28%;
+  position: absolute;
+
+}
+#a9{
+  height: 400px;
+  width: 30%;
+  margin-left: 1000px;
+  margin-top: -30%;
+  position: absolute;
+}
+ #a10{
+  height: 400px;
+  width: 30%;
+  margin-left: 50px;
+  position: absolute;
+  margin-top: 1.5%;
+}
+ #a11{
+  height: 400px;
+  width: 30%;
+  margin-left: 530px;
+  position: absolute;margin-top: -33%;
+}
+ #a12{
+  height: 400px;
+  width: 30%;
+  margin-left: 1000PX;
+  position: absolute;
+  margin-top: -33%;
+}
+#b1{
+    height: 350px;
+    width: 30%;
+    margin-left: 50px;
+    position: absolute;
+    margin-top: -1%;
+
+}
+#b2{
+  height: 350px;
+  width: 30%;
+  margin-left: 530px;
+  margin-top: -29%;
+  position: absolute;
+
+}
+#b3{
+  height: 400px;
+  width: 30%;
+  margin-left: 1000px;
+  margin-top: -30%;
+  position: absolute;
+}
+ #b4{
+  height: 400px;
+  width: 30%;
+  margin-left: 50px;
+  position: absolute;
+  margin-top: 7%;
+}
+ #b5{
+  height: 400px;
+  width: 30%;
+  margin-left: 530px;
+  position: absolute;margin-top: -30%;
+}
+ #b6{
+  height: 400px;
+  width: 30%;
+  margin-left: 1000PX;
+  position: absolute;
+  margin-top: -30%;
+}
+  
+#b7{
+    height: 350px;
+    width: 30%;
+    margin-left: 50px;
+    position: absolute;
+    margin-top: -1%;
+
+}
+#b8{
+  height: 350px;
+  width: 30%;
+  margin-left: 530px;
+  margin-top: -28%;
+  position: absolute;
+
+}
+#b9{
+  height: 380px;
+  width: 30%;
+  margin-left: 1000px;
+  margin-top: -30%;
+  position: absolute;
+}
+ #b10{
+  height: 400px;
+  width: 30%;
+  margin-left: 50px;
+  position: absolute;
+  margin-top: 9%;
+}
+ #b11{
+  height: 400px;
+  width: 30%;
+  margin-left: 530px;
+  position: absolute;margin-top: -35%;
+}
+ #b12{
+  height: 400px;
+  width: 30%;
+  margin-left: 1000PX;
+  position: absolute;
+  margin-top: -33%;
+}
+#test2{
+  color: black;
+}
+  
+#test5{
+  margin-left: -6%;
+}
+#test4{
+  text-align: center;
+  margin-left: 8%;
+}
+#test7{
+  text-decoration: none;
+  color: black;
+}
+
+    
+ 
+    
+    
+
