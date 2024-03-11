@@ -4,6 +4,9 @@ nav{
     height: 90px;
     
 }
+body{
+  overflow-x: hidden;
+}
 .nav-link{
     text-decoration: none;
     color: black;
